@@ -1,1 +1,1 @@
-# google-finance-news
+# stockwatch
